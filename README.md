@@ -8,5 +8,5 @@
 
 #### 📈 Github Stats
 
-![](https://github.com/jsousa02/github-stats/blob/master/generated/languages.svg)
-![](https://github.com/jsousa02/github-stats/blob/master/generated/overview.svg)
+[![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsousa02&hide=contribs,stars&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=cb553f)](https://github.com/jsousa02/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jsousa02&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff)](https://github.com/jsousa02/github-readme-stats)
