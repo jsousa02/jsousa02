@@ -1,6 +1,6 @@
 ### Hi there, I'm Jorge! 👋
 
-:computer: BSc + MSc in Informatics and Computing Engineering (3/5)
+:computer: MSc in Informatics and Computing Engineering
 
 #### 🔧 Languages and Tools
 
